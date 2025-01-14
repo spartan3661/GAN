@@ -1,5 +1,7 @@
+download.py
 *
 !.gitignore
-!download.py
+
 !*.py
+
 !*.ipynb
